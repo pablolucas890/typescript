@@ -1,3 +1,6 @@
+<img src="gif.gif">
+<hr>
+
 <h1 align="center"> Typescript</h1>
 <h3 align="center">Repositório destinado ao estudo de Typescript</h3>
 
