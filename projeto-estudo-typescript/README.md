@@ -1,3 +1,6 @@
+<img src="gif.gif">
+<hr>
+
 # Anotações
 
 - yarn init -y
